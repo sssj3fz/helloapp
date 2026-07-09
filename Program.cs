@@ -11,4 +11,9 @@ class Program
     {
         Console.WriteLine("hello");
     }
+
+    static void SayHelloWhite()
+    {
+        Console.WriteLine("hello white");
+    }
 }
