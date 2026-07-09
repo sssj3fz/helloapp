@@ -7,9 +7,9 @@ class Program
         SayHello();
     }
 
-    static void SayHello()
+    static void SayHelloBlack()
 {
-    Console.WriteLine("hello everyone");
+    Console.WriteLine("hello black");
     }
 
     static void SayHelloWhite()
